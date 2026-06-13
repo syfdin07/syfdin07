@@ -76,12 +76,12 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syfdin07&show_icons=true&theme=react&hide_border=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=syfdin07&theme=react&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syfdin07&show_icons=true&theme=graywhite&hide_border=true&count_private=true&icon_color=667eea&title_color=667eea" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=syfdin07&theme=default&hide_border=true&ring=667eea&fire=f97316&currStreakLabel=667eea" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfdin07&layout=compact&theme=react&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfdin07&layout=compact&theme=graywhite&hide_border=true&title_color=667eea" />
 
 </div>
 
@@ -92,7 +92,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=syfdin07&theme=react-dark&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=syfdin07&theme=minimal&hide_border=true&area=true&color=667eea&line=667eea&point=f97316" />
 
 </div>
 
@@ -104,11 +104,11 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/syfdin07/SmartSplit-Bill-AI">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=syfdin07&repo=SmartSplit-Bill-AI&theme=react&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=syfdin07&repo=SmartSplit-Bill-AI&theme=graywhite&hide_border=true&title_color=667eea&icon_color=667eea" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/syfdin07/SmartShopper-Assistant">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=syfdin07&repo=SmartShopper-Assistant&theme=react&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=syfdin07&repo=SmartShopper-Assistant&theme=graywhite&hide_border=true&title_color=667eea&icon_color=667eea" />
 </a>
 
 </div>
