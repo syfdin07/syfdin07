@@ -68,7 +68,7 @@ Passionate Data Scientist with a strong foundation in machine learning, statisti
 |---------|-------------|------|
 | [SmartSplit Bill AI](https://github.com/syfdin07/SmartSplit-Bill-AI) | AI-powered receipt reader & bill splitter using Gemini 2.5 Flash | Python, Streamlit, PyTorch, Gemini AI |
 | [SmartShopper Assistant](https://github.com/syfdin07/SmartShopper-Assistant) | AI Agent for e-commerce with product recommendations & RAG | Python, Gemini Pro, MongoDB, Sentence Transformers |
-| [Random Forest Tutorial](https://github.com/syfdin07/randomforest_tutorial) | End-to-end tutorial on Random Forest classification | Python, Scikit-Learn |
+
 
 ---
 
