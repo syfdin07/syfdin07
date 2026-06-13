@@ -14,8 +14,7 @@
 
 ---
 
-<!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
+## About Me
 
 ```python
 class DataScientist:
@@ -34,32 +33,31 @@ me.say_hi()
 
 ---
 
-<!-- TECH STACK -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**🐍 Languages & Core**
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🤖 Machine Learning & AI**
+**Machine Learning & AI**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
-**📊 Data & Analytics**
+**Data & Analytics**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**🛠️ Tools & Platforms**
+**Tools & Platforms**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,8 +69,7 @@ me.say_hi()
 
 ---
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -87,8 +84,7 @@ me.say_hi()
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -98,8 +94,7 @@ me.say_hi()
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -115,13 +110,12 @@ me.say_hi()
 
 ---
 
-<!-- CURRENTLY LEARNING -->
-## 🎯 Currently Learning
+## Currently Learning
 
 <div align="center">
 
-| 🧠 Topic | 📈 Progress |
-|----------|------------|
+| Topic | Progress |
+|-------|----------|
 | Large Language Models & Prompt Engineering | ████████░░ 80% |
 | MLOps & Model Deployment | ██████░░░░ 60% |
 | Advanced Statistical Methods | ███████░░░ 70% |
@@ -131,8 +125,7 @@ me.say_hi()
 
 ---
 
-<!-- SNAKE -->
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -142,13 +135,10 @@ me.say_hi()
   <img alt="github-snake" src="https://raw.githubusercontent.com/syfdin07/syfdin07/output/github-snake-dark.svg" />
 </picture>
 
-> ⚡ *Snake animation auto-generates every 12 hours. [Trigger manually](https://github.com/syfdin07/syfdin07/actions/workflows/snake.yml) for first run.*
-
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 *"In God we trust. All others must bring data."* — W. Edwards Deming
@@ -156,10 +146,6 @@ me.say_hi()
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syfdin07&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-**💬 Let's connect and build something amazing together!**
 
 </div>
 
