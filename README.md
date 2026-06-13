@@ -28,8 +28,11 @@ Passionate Data Scientist with a strong foundation in machine learning, statisti
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Data & Analytics
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -63,6 +66,8 @@ Passionate Data Scientist with a strong foundation in machine learning, statisti
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [SmartSplitBill](https://github.com/syfdin07/smartsplitbill) | Smart bill splitting application with intelligent cost distribution | PHP, Python |
+| [SmartShopeer](https://github.com/syfdin07/smartshopeer) | Intelligent shopping assistant with data-driven recommendations | Python, ML |
 | [Random Forest Tutorial](https://github.com/syfdin07/randomforest_tutorial) | End-to-end tutorial on Random Forest classification | Python, Scikit-Learn |
 
 ---
